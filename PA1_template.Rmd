@@ -1,3 +1,6 @@
+---
+output: html_document
+---
 # Reproducible Research: Peer Assessment 1
 
 # August 2017
@@ -151,6 +154,7 @@ xyplot(steps ~ interval | week, data = avg_step, type = "l", lwd = 2,
        ylab = "Steps(Avg)",
        main = "Average Number of Steps Taken ")
 ```
+
 
 
 
