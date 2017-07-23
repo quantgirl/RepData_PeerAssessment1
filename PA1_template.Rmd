@@ -1,5 +1,5 @@
 # Reproducible Research: Peer Assessment 1
-#Aparajita Bhandari
+
 # August 2017
 ## Prepare the R environment
 
